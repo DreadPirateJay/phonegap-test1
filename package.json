@@ -1,0 +1,10 @@
+{
+  "author": "Jay Earwood",
+  "name": "HelloPhoneGap",
+  "version": "0.0.1",
+  "dependencies": {
+  	"jquery": "1.8.2",
+  	"jquery-mobile": "*"
+  	},
+  "devDependencies": {}
+}
